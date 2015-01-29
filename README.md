@@ -2,14 +2,20 @@
 
 UDP server that is listening for raw "Teleinfo" (EDF) datagrams
 
+## Installation
+
+```bash
+npm install -g teleinfo-server
+```
+
 ## Usage
 
 `teleinfo-server` can be used standalone to decode and print out received "Teleinfo" datagrams
 
 ```text
 Usage:
-  node teleinfo-server [--port=10000] [--host=0.0.0.0] [--wait=0]
-  node teleinfo-server -h | --help | --version
+  teleinfo-server [--port=10000] [--host=0.0.0.0] [--wait=0]
+  teleinfo-server -h | --help | --version
 
 Options:
   -p, --port=PORT  Specify on which port the server is listening
