@@ -1,0 +1,26 @@
+{
+  "name": "teleinfo-server",
+  "description": "UDP server that is listening for raw \"Teleinfo\" (EDF) datagrams",
+  "version": "0.1.1",
+  "license": "MIT",
+  "author": "Michael Hurni <michael.hurni@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pyrou/node-teleinfo-server.git"
+  },
+  "main": "./lib/teleinfo-server.js",
+  "keywords": [
+    "teleinfo",
+    "EDF",
+    "server"
+  ],
+  "bin": {
+    "teleinfo-server": "./bin/teleinfo-server"
+  },
+  "dependencies": {
+    "docopt": "~0.4.0"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
