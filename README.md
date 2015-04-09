@@ -1,5 +1,8 @@
 # node-teleinfo-server
 
+[![Code Climate](https://codeclimate.com/github/pyrou/node-teleinfo-server/badges/gpa.svg)](https://codeclimate.com/github/pyrou/node-teleinfo-server)
+[![Dependency Status](https://david-dm.org/pyrou/node-teleinfo-server.svg)](https://david-dm.org/pyrou/node-teleinfo-server)
+
 UDP server that is listening for raw "Teleinfo" (EDF) datagrams
 
 ## Installation
