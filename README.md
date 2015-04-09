@@ -1,6 +1,6 @@
 # node-teleinfo-server
 
-[![NPM](https://nodei.co/npm/teleinfo-server.png)](https://npmjs.org/teleinfo-server)
+[![npm version](https://img.shields.io/npm/v/teleinfo-server.svg?style=flat)](https://www.npmjs.com/package/teleinfo-server)
 [![Code Climate](https://codeclimate.com/github/pyrou/node-teleinfo-server/badges/gpa.svg)](https://codeclimate.com/github/pyrou/node-teleinfo-server)
 [![Dependency Status](https://david-dm.org/pyrou/node-teleinfo-server.svg)](https://david-dm.org/pyrou/node-teleinfo-server)
 
